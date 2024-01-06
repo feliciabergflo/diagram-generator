@@ -1,4 +1,4 @@
-# Diagram generator in C# and .NET 8
+# Diagram Generator in C# and .NET 8
 This project was developed as an assignment for the course "Programming in C#, III (DA208E)" at Malmö University. The primary goal of the assignment was to explore 2D graphic tools in GDI+ with Windows Forms.
 
 ## Overview
